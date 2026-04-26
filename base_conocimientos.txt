@@ -1,0 +1,3 @@
+CONOCIMIENTO VULCAN:
+- Intel N95: 4 núcleos (E-cores), Alder Lake-N, 3.4 GHz, 15W TDP. Uso: Mini PCs.
+- RTX 4060: 8GB GDDR6, 115W, DLSS 3.0, Ray Tracing.
